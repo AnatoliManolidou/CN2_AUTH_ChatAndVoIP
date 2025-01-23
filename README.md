@@ -1,3 +1,5 @@
+## Besides the main branch, which includes the UDP implementation, our team has also implemented the TCP protocol and encryption. As a result, there are two additional branches for these implementations.
+
 # P2P Chat and VoIP Application using UDP in Java
 
 This repository contains the codebase of the **Peer-to-Peer (P2P) Chat and VoIP application** which will be developed as the main assignment for the **Computer Networks II** course. This course is taught as part of the curiculum of the **Electrical and Computer Engineering** department of the **Aristotle University of Thessaloniki (AUTH)** during the **2024-2025** academic year.
